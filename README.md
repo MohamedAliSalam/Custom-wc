@@ -82,4 +82,4 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
