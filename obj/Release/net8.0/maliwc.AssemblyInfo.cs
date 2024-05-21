@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maliwc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a4e1735ff24bcfc0669f855865e73306cb4b0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+262735b1fe63d171641ed3c29d1b3ea78020e6e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("maliwc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maliwc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
